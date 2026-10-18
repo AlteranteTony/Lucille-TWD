@@ -29,6 +29,9 @@ As my first project i wanted to make something cool and memorable. (beginner btw
 
 Beyond recreating a recognizable piece from the show, I wanted to challenge myself to take an idea from concept to a finished digital design. Lucille represents my curiosity, creativity, and willingness to learn through hands-on engineering projects.
 
+## Warning
+his is a fan-made, decorative CAD project inspired by The Walking Dead. It is not affiliated with or endorsed by the show's creators or rights holders. Use and display the finished model responsibly and follow applicable local rules.
+
 # LUCILLE IN THE PROCESS OF MAKING
 ![image alt](https://github.com/AlteranteTony/Lucille-TWD/blob/cafa490c2f58052d497bfac78cfbaa1083c77cbd/lucille%20picture/first%20sketch.png)
 
