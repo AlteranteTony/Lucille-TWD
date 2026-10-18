@@ -32,7 +32,7 @@ Beyond recreating a recognizable piece from the show, I wanted to challenge myse
 # LUCILLE IN THE PROCESS OF MAKING
 ![image alt](https://github.com/AlteranteTony/Lucille-TWD/blob/cafa490c2f58052d497bfac78cfbaa1083c77cbd/lucille%20picture/first%20sketch.png)
 
-
+![image alt](https://github.com/AlteranteTony/Lucille-TWD/blob/92f6c9c114af849579f73a68e288058ca700986b/lucille%20picture/idkbathuh.png)
 ## Bill OF Matelias (BOM)
 
 | S.no | product | qty | vendor | link | price in ($) |
