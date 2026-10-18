@@ -29,3 +29,10 @@ Beyond recreating a recognizable piece from the show, I wanted to challenge myse
 
 
 ## Bill OF Matelias (BOM)
+
+| S.no | product | qty | vendor | link | price in ($) |
+| --- | --- | --- | --- | --- | --- |
+| 1 | lucille | 1 | jlc3dp | [https://jlc3dp.com/](https://jlc3dp.com/) | 10.06 |
+| 2 | super glue | 1 | amazon | [https://amzn.in/d/0fJ3Ic6v](https://amzn.in/d/0fJ3Ic6v) | 1.36 |
+
+> **Note:** Prices are an estimate and do not include shipping.
