@@ -1,7 +1,7 @@
 # Lucille-TWD
 it's a 3d Lucille so you could slay some imaginary walkers
 
-[lucille](https://github.com/AlteranteTony/Lucille-TWD/blob/3e8c4fd3cbc17c98119110db8dd3eda6d3709829/lucille%20picture/final%20look.png)
+![image alt](https://github.com/AlteranteTony/Lucille-TWD/blob/3e8c4fd3cbc17c98119110db8dd3eda6d3709829/lucille%20picture/final%20look.png)
 
 # what it is 
 it is cad project which includes Lucille, the iconic barbed-wire-wrapped baseball bat of Negan from The Walking Dead.
