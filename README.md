@@ -27,9 +27,8 @@ this repo includes STL files so that you could print lucille for your self , it 
 # Motivation behind making of Lucille
 As my first project i wanted to make something cool and memorable. (beginner btw) i always have been fond of shows that portray survival in the wild , The Walking Dead has been one of the best shows i ever watched so i wanted to always remember the first time i watched TWD . so i made it to remember how i felt it watching for the first time.
 
-Beyond recreating a recognizable piece from the show, I wanted to challenge myself to take an idea from concept to a finished digital design. Lucille represents my curiosity, creativity, and willingness to learn through hands-on engineering projects.
+By recreating a recognizable piece from the show, I wanted to challenge myself to take an idea from concept to a finished design.
 
-## Warning
 this is a fan-made, decorative CAD project inspired by The Walking Dead. It is not affiliated with or endorsed by the show's creators or rights holders. Use and display the finished model responsibly and follow applicable local rules.
 
 # LUCILLE IN THE PROCESS OF MAKING
